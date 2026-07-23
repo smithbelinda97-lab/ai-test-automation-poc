@@ -1,5 +1,9 @@
 # AI-Assisted Selenium Automation Framework PoC
-
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Test_Automation-blueviolet?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-success?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-Evaluated-orange?style=for-the-badge)
 ## Objective
 
 This project demonstrates a Proof of Concept (PoC) for AI-assisted test automation using:
