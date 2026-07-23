@@ -1,4 +1,6 @@
-# AI-Assisted Selenium Automation Framework PoC
+# 🤖 AI Test Automation Proof of Concept (PoC)
+
+### Evaluating AI-Assisted Automation Using Selenium, Python and Prompt Engineering
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Test_Automation-blueviolet?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-success?style=for-the-badge)
@@ -21,7 +23,7 @@ The goal is to reduce repetitive automation scripting effort and improve maintai
 
 # Framework Architecture
 
-AI_Automation_POC/
+ai-test-automation-poc
 │
 ├── drivers/
 │   └── chromedriver.exe
@@ -59,8 +61,20 @@ AI_Automation_POC/
 * JSON locator mapping
 
 ---
+## Evaluation Methodology
 
-# AI Usage in This PoC
+The generated automation assets were evaluated using the following criteria:
+
+- Code correctness
+- Framework compatibility
+- Reusability
+- Maintainability
+- Prompt quality
+- Manual effort required
+
+---
+
+# AI-Assisted Development Workflow in This PoC
 
 ## AI-assisted activities:
 
@@ -103,12 +117,25 @@ SauceDemo Login and Logout Flow:
 
 ---
 
+# Results
+
+| Area | Result |
+|-------|--------|
+| Test Case Generation | Successful |
+| Selenium Script Generation | Successful |
+| JSON Locator Mapping | Successful |
+| Screenshot Capture | Successful |
+| Word Reporting | Successful |
+| Manual Validation Required | Yes |
+
+---
+
 # Installation
 
 ## Clone Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/smithbelinda97-lab/ai-test-automation-poc.git
 ```
 
 ---
@@ -170,6 +197,25 @@ reports/
 * Multi-browser execution
 
 ---
+
+# Challenges
+
+- AI occasionally generated incorrect locator strategies.
+- Generated scripts required refinement for framework integration.
+- Prompt specificity significantly influenced output quality.
+- Manual validation remained essential before execution.
+
+---
+
+# Limitations
+
+- AI cannot fully replace human validation.
+- Generated scripts may require framework customization.
+- Locator maintenance still depends on application changes.
+- Complex business workflows require tester expertise.
+
+---
+
 
 # Disclaimer
 
